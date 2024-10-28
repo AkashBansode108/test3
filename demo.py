@@ -13,3 +13,7 @@ else:
     print("false")
     
     print("...")
+
+# this code is chnagd in main
+print('I am doing reset check')
+print('git stash checking')
